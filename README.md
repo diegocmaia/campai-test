@@ -61,7 +61,7 @@ First, you need to have Mongo installed and running. Then you can create the fak
 npm run fake-data
 ```
 
-Then you can start the app by simply running
+All fake data will be added to the database with name `campai-test`. Then you can start the app by simply running
 
 ```
 npm start
