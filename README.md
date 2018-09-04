@@ -1,13 +1,13 @@
 # campai - Backend for Fullstack developer Challenge
 
-Welcome to **[campai](https://campai.de/)**!
+Welcome to **[campai](https://campai.com/)**!
 
 This is the backend side of a code challenge for the position of `Full Stack Developer`.
 
 Please read the following notes carefully, since they are of utmost importance for this challenge
 
 *   Show us what you know! Think outside of the box. Think about structure, reusability and scalability
-*   You should create your own repository for the front-end. You can set it up however you prefer, but you have to use `React`, a store (Mobx or Redux are both fine) and a comprehensive README to help anyone setup and run your code.
+*   You should create your own repository for the front-end. You can set it up however you prefer, but you have to use `React`, a store manager (Mobx or Redux are both fine) and a comprehensive README to help anyone setup and run your code.
 *   Testing for the backend is not necessary. Bonus points if you do. Even more so if you add it to travis.
 *   Testing the front-end is not necessary.
 *   Once again, think about scalability. If I would have to add 20 more endpoints for your server tomorrow, how easy would that be?
@@ -18,14 +18,14 @@ Happy coding! :coffee:
 
 For the dev environment we suggest:
 
-*   Node 8.9.4+
+*   Node 8.11.4+
 *   Mongo 3.4+
 *   Any code editor of your choice (Although VScode is always the right choice)
 *   Npm or Yarn as package managers. Npm 5+ is fast, so we reccomend that.
 
 # The challenge itself:
 
-Fork this repo to your private profile, that will be where you should commit all your backend code.
+Fork this repo to your private profile, that will be where you should commit all your code.
 
 Create the front-end repo however you prefer, as stated on the guidelines above.
 
